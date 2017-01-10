@@ -1,0 +1,4 @@
+<%
+'test
+response.write "test"
+%>
